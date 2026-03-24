@@ -1,0 +1,136 @@
+{
+  "grade1": {
+    "lessons": [
+      {
+        "title": "Colors in French",
+        "content": "Learn basic colors in French: Rouge (Red), Bleu (Blue), Vert (Green), Jaune (Yellow).",
+        "quiz": [
+          {"question": "Red in French?", "options": ["Rouge", "Bleu"], "answer": "Rouge"},
+          {"question": "Green in French?", "options": ["Vert", "Jaune"], "answer": "Vert"}
+        ]
+      }
+    ]
+  },
+  "grade2": {
+    "lessons": [
+      {
+        "title": "Numbers 1-10",
+        "content": "Learn numbers 1 to 10: Un, Deux, Trois, Quatre, Cinq, Six, Sept, Huit, Neuf, Dix.",
+        "quiz": [
+          {"question": "2 in French?", "options": ["Deux", "Trois"], "answer": "Deux"},
+          {"question": "5 in French?", "options": ["Cinq", "Six"], "answer": "Cinq"}
+        ]
+      }
+    ]
+  },
+  "grade3": {
+    "lessons": [
+      {
+        "title": "Greetings",
+        "content": "Common greetings: Bonjour (Hello), Salut (Hi), Au revoir (Goodbye).",
+        "quiz": [
+          {"question": "Hello in French?", "options": ["Bonjour", "Salut"], "answer": "Bonjour"}
+        ]
+      }
+    ]
+  },
+  "grade4": {
+    "lessons": [
+      {
+        "title": "Days of the Week",
+        "content": "Lundi (Monday), Mardi (Tuesday), Mercredi (Wednesday), Jeudi (Thursday), Vendredi (Friday), Samedi (Saturday), Dimanche (Sunday).",
+        "quiz": [
+          {"question": "Monday in French?", "options": ["Lundi", "Mardi"], "answer": "Lundi"}
+        ]
+      }
+    ]
+  },
+  "grade5": {
+    "lessons": [
+      {
+        "title": "Family Members",
+        "content": "Mother: Mère, Father: Père, Brother: Frère, Sister: Soeur.",
+        "quiz": [
+          {"question": "Brother in French?", "options": ["Frère", "Soeur"], "answer": "Frère"}
+        ]
+      }
+    ]
+  },
+  "grade6": {
+    "lessons": [
+      {
+        "title": "Basic Verbs",
+        "content": "Common verbs: être (to be), avoir (to have), aller (to go), faire (to do).",
+        "quiz": [
+          {"question": "To go in French?", "options": ["aller", "faire"], "answer": "aller"}
+        ]
+      }
+    ]
+  },
+  "grade7": {
+    "lessons": [
+      {
+        "title": "School Objects",
+        "content": "Pen: Stylo, Book: Livre, Notebook: Cahier, Chair: Chaise.",
+        "quiz": [
+          {"question": "Book in French?", "options": ["Livre", "Cahier"], "answer": "Livre"}
+        ]
+      }
+    ]
+  },
+  "grade8": {
+    "lessons": [
+      {
+        "title": "Common Phrases",
+        "content": "How are you?: Comment ça va?, Thank you: Merci, Please: S'il vous plaît.",
+        "quiz": [
+          {"question": "Thank you in French?", "options": ["Merci", "Bonjour"], "answer": "Merci"}
+        ]
+      }
+    ]
+  },
+  "grade9": {
+    "lessons": [
+      {
+        "title": "Food Vocabulary",
+        "content": "Bread: Pain, Cheese: Fromage, Apple: Pomme, Water: Eau.",
+        "quiz": [
+          {"question": "Apple in French?", "options": ["Pomme", "Pain"], "answer": "Pomme"}
+        ]
+      }
+    ]
+  },
+  "grade10": {
+    "lessons": [
+      {
+        "title": "Simple Sentences",
+        "content": "I am happy: Je suis heureux, I have a book: J'ai un livre.",
+        "quiz": [
+          {"question": "I have a book?", "options": ["J'ai un livre", "Je suis heureux"], "answer": "J'ai un livre"}
+        ]
+      }
+    ]
+  },
+  "grade11": {
+    "lessons": [
+      {
+        "title": "Travel Phrases",
+        "content": "Where is…?: Où est…?, I need help: J'ai besoin d'aide.",
+        "quiz": [
+          {"question": "Where is in French?", "options": ["Où est…?", "J'ai besoin d'aide"], "answer": "Où est…?"}
+        ]
+      }
+    ]
+  },
+  "grade12": {
+    "lessons": [
+      {
+        "title": "Advanced Expressions",
+        "content": "It's raining cats and dogs: Il pleut des cordes, Better late than never: Mieux vaut tard que jamais.",
+        "quiz": [
+          {"question": "Better late than never?", "options": ["Mieux vaut tard que jamais", "Il pleut des cordes"], "answer": "Mieux vaut tard que jamais"}
+        ]
+      }
+    ]
+  }
+}
