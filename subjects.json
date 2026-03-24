@@ -1,0 +1,14 @@
+{
+  "grade1":{"lessons":[{"title":"Addition","content":"Learn addition","quiz":[{"question":"2+2?","options":["3","4"],"answer":"4"}]}]},
+  "grade2":{"lessons":[{"title":"Subtraction","content":"Learn subtraction","quiz":[{"question":"5-2?","options":["2","3"],"answer":"3"}]}]},
+  "grade3":{"lessons":[{"title":"Multiplication","content":"Learn multiplication","quiz":[{"question":"3x3?","options":["6","9"],"answer":"9"}]}]},
+  "grade4":{"lessons":[{"title":"Division","content":"Learn division","quiz":[{"question":"8/2?","options":["2","4"],"answer":"4"}]}]},
+  "grade5":{"lessons":[{"title":"Fractions","content":"Learn fractions","quiz":[{"question":"1/2 + 1/2?","options":["1","2"],"answer":"1"}]}]},
+  "grade6":{"lessons":[{"title":"Decimals","content":"Learn decimals","quiz":[{"question":"0.5 + 0.2?","options":["0.7","0.5"],"answer":"0.7"}]}]},
+  "grade7":{"lessons":[{"title":"Algebra","content":"Learn basic algebra","quiz":[{"question":"x+2=5, x=?","options":["2","3"],"answer":"3"}]}]},
+  "grade8":{"lessons":[{"title":"Geometry","content":"Learn geometry basics","quiz":[{"question":"Triangle sum of angles?","options":["180","90"],"answer":"180"}]}]},
+  "grade9":{"lessons":[{"title":"Algebra II","content":"Advanced algebra","quiz":[{"question":"Solve 2x+3=7","options":["1","2"],"answer":"2"}]}]},
+  "grade10":{"lessons":[{"title":"Trigonometry","content":"Basics of trig","quiz":[{"question":"sin 90°?","options":["1","0"],"answer":"1"}]}]},
+  "grade11":{"lessons":[{"title":"Calculus","content":"Intro to calculus","quiz":[{"question":"Derivative of x^2?","options":["x","2x"],"answer":"2x"}]}]},
+  "grade12":{"lessons":[{"title":"Statistics","content":"Intro to statistics","quiz":[{"question":"Mean of 1,2,3?","options":["2","3"],"answer":"2"}]}]}
+}
