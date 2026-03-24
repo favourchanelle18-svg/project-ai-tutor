@@ -1,0 +1,136 @@
+{
+  "grade1": {
+    "lessons": [
+      {
+        "title": "Colors in Spanish",
+        "content": "Red: Rojo, Blue: Azul, Green: Verde, Yellow: Amarillo.",
+        "quiz": [
+          {"question": "Red in Spanish?", "options": ["Rojo", "Azul"], "answer": "Rojo"},
+          {"question": "Green in Spanish?", "options": ["Verde", "Amarillo"], "answer": "Verde"}
+        ]
+      }
+    ]
+  },
+  "grade2": {
+    "lessons": [
+      {
+        "title": "Numbers 1-10",
+        "content": "1: Uno, 2: Dos, 3: Tres, 4: Cuatro, 5: Cinco, 6: Seis, 7: Siete, 8: Ocho, 9: Nueve, 10: Diez.",
+        "quiz": [
+          {"question": "2 in Spanish?", "options": ["Dos", "Tres"], "answer": "Dos"},
+          {"question": "5 in Spanish?", "options": ["Cinco", "Seis"], "answer": "Cinco"}
+        ]
+      }
+    ]
+  },
+  "grade3": {
+    "lessons": [
+      {
+        "title": "Greetings",
+        "content": "Hello: Hola, Hi: Buenas, Goodbye: Adiós.",
+        "quiz": [
+          {"question": "Hello in Spanish?", "options": ["Hola", "Buenas"], "answer": "Hola"}
+        ]
+      }
+    ]
+  },
+  "grade4": {
+    "lessons": [
+      {
+        "title": "Days of the Week",
+        "content": "Monday: Lunes, Tuesday: Martes, Wednesday: Miércoles, Thursday: Jueves, Friday: Viernes, Saturday: Sábado, Sunday: Domingo.",
+        "quiz": [
+          {"question": "Monday in Spanish?", "options": ["Lunes", "Martes"], "answer": "Lunes"}
+        ]
+      }
+    ]
+  },
+  "grade5": {
+    "lessons": [
+      {
+        "title": "Family Members",
+        "content": "Mother: Madre, Father: Padre, Brother: Hermano, Sister: Hermana.",
+        "quiz": [
+          {"question": "Brother in Spanish?", "options": ["Hermano", "Hermana"], "answer": "Hermano"}
+        ]
+      }
+    ]
+  },
+  "grade6": {
+    "lessons": [
+      {
+        "title": "Basic Verbs",
+        "content": "To be: Ser, To have: Tener, To go: Ir, To do: Hacer.",
+        "quiz": [
+          {"question": "To go in Spanish?", "options": ["Ir", "Hacer"], "answer": "Ir"}
+        ]
+      }
+    ]
+  },
+  "grade7": {
+    "lessons": [
+      {
+        "title": "School Objects",
+        "content": "Pen: Bolígrafo, Book: Libro, Notebook: Cuaderno, Chair: Silla.",
+        "quiz": [
+          {"question": "Book in Spanish?", "options": ["Libro", "Cuaderno"], "answer": "Libro"}
+        ]
+      }
+    ]
+  },
+  "grade8": {
+    "lessons": [
+      {
+        "title": "Common Phrases",
+        "content": "How are you?: ¿Cómo estás?, Thank you: Gracias, Please: Por favor.",
+        "quiz": [
+          {"question": "Thank you in Spanish?", "options": ["Gracias", "Por favor"], "answer": "Gracias"}
+        ]
+      }
+    ]
+  },
+  "grade9": {
+    "lessons": [
+      {
+        "title": "Food Vocabulary",
+        "content": "Bread: Pan, Cheese: Queso, Apple: Manzana, Water: Agua.",
+        "quiz": [
+          {"question": "Apple in Spanish?", "options": ["Manzana", "Pan"], "answer": "Manzana"}
+        ]
+      }
+    ]
+  },
+  "grade10": {
+    "lessons": [
+      {
+        "title": "Simple Sentences",
+        "content": "I am happy: Estoy feliz, I have a book: Tengo un libro.",
+        "quiz": [
+          {"question": "I have a book?", "options": ["Tengo un libro", "Estoy feliz"], "answer": "Tengo un libro"}
+        ]
+      }
+    ]
+  },
+  "grade11": {
+    "lessons": [
+      {
+        "title": "Travel Phrases",
+        "content": "Where is…?: ¿Dónde está…?, I need help: Necesito ayuda.",
+        "quiz": [
+          {"question": "Where is in Spanish?", "options": ["¿Dónde está…?", "Necesito ayuda"], "answer": "¿Dónde está…?"}
+        ]
+      }
+    ]
+  },
+  "grade12": {
+    "lessons": [
+      {
+        "title": "Advanced Expressions",
+        "content": "Better late than never: Más vale tarde que nunca, It's raining cats and dogs: Llueve a cántaros.",
+        "quiz": [
+          {"question": "Better late than never?", "options": ["Más vale tarde que nunca", "Llueve a cántaros"], "answer": "Más vale tarde que nunca"}
+        ]
+      }
+    ]
+  }
+}
