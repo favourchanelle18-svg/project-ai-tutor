@@ -1,0 +1,66 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #0f172a;
+  color: white;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+
+h1,h2,h3 { color: #facc15; }
+
+button {
+  padding: 12px 20px;
+  margin: 10px 5px;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  background: #1e40af;
+  color: white;
+  font-weight: bold;
+}
+
+button:hover { background: #2563eb; }
+
+input, select {
+  padding: 12px;
+  margin: 5px;
+  width: 80%;
+  border-radius: 5px;
+  border: none;
+}
+
+.ai-box {
+  background: #1e293b;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 25px;
+}
+
+#quiz input { margin-right: 10px; margin-bottom:5px; }
+
+.progress-bar {
+  width: 100%;
+  background: #1e293b;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 15px 0;
+}
+
+.progress-fill {
+  height: 20px;
+  width: 0%;
+  background: #facc15;
+  border-radius: 10px;
+  transition: width 1s ease-in-out;
+}
+
+@media (max-width: 600px) {
+  input, select { width: 95%; }
+  button { width: 90%; }
+}
