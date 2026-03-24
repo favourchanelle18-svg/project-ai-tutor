@@ -1,0 +1,136 @@
+{
+  "grade1": {
+    "lessons": [
+      {
+        "title": "Colors in Korean",
+        "content": "Red: 빨강 (ppalgang), Blue: 파랑 (parang), Green: 초록 (chorok), Yellow: 노랑 (norang).",
+        "quiz": [
+          {"question": "Red in Korean?", "options": ["빨강", "파랑"], "answer": "빨강"},
+          {"question": "Green in Korean?", "options": ["초록", "노랑"], "answer": "초록"}
+        ]
+      }
+    ]
+  },
+  "grade2": {
+    "lessons": [
+      {
+        "title": "Numbers 1-10",
+        "content": "1: 하나 (hana), 2: 둘 (dul), 3: 셋 (set), 4: 넷 (net), 5: 다섯 (daseot), 6: 여섯 (yeoseot), 7: 일곱 (ilgop), 8: 여덟 (yeodeol), 9: 아홉 (ahop), 10: 열 (yeol).",
+        "quiz": [
+          {"question": "2 in Korean?", "options": ["둘", "셋"], "answer": "둘"},
+          {"question": "5 in Korean?", "options": ["다섯", "여섯"], "answer": "다섯"}
+        ]
+      }
+    ]
+  },
+  "grade3": {
+    "lessons": [
+      {
+        "title": "Greetings",
+        "content": "Hello: 안녕하세요 (annyeonghaseyo), Hi: 안녕 (annyeong), Goodbye: 안녕히 가세요 (annyeonghi gaseyo).",
+        "quiz": [
+          {"question": "Hello in Korean?", "options": ["안녕하세요", "안녕"], "answer": "안녕하세요"}
+        ]
+      }
+    ]
+  },
+  "grade4": {
+    "lessons": [
+      {
+        "title": "Days of the Week",
+        "content": "Monday: 월요일 (woryoil), Tuesday: 화요일 (hwayoil), Wednesday: 수요일 (suyoil), Thursday: 목요일 (mogyoil), Friday: 금요일 (geumyoil), Saturday: 토요일 (toyoil), Sunday: 일요일 (iryoil).",
+        "quiz": [
+          {"question": "Monday in Korean?", "options": ["월요일", "화요일"], "answer": "월요일"}
+        ]
+      }
+    ]
+  },
+  "grade5": {
+    "lessons": [
+      {
+        "title": "Family Members",
+        "content": "Mother: 엄마 (eomma), Father: 아빠 (appa), Brother: 형/오빠 (hyeong/oppa), Sister: 누나/언니 (nuna/eonni).",
+        "quiz": [
+          {"question": "Father in Korean?", "options": ["아빠", "엄마"], "answer": "아빠"}
+        ]
+      }
+    ]
+  },
+  "grade6": {
+    "lessons": [
+      {
+        "title": "Basic Verbs",
+        "content": "To eat: 먹다 (meokda), To go: 가다 (gada), To do: 하다 (hada), To see: 보다 (boda).",
+        "quiz": [
+          {"question": "To go in Korean?", "options": ["가다", "하다"], "answer": "가다"}
+        ]
+      }
+    ]
+  },
+  "grade7": {
+    "lessons": [
+      {
+        "title": "School Objects",
+        "content": "Pen: 펜 (pen), Book: 책 (chaek), Notebook: 공책 (gongchaek), Chair: 의자 (uija).",
+        "quiz": [
+          {"question": "Book in Korean?", "options": ["책", "공책"], "answer": "책"}
+        ]
+      }
+    ]
+  },
+  "grade8": {
+    "lessons": [
+      {
+        "title": "Common Phrases",
+        "content": "Thank you: 감사합니다 (gamsahamnida), Please: 제발 (jebal), How are you?: 어떻게 지내세요? (eotteohge jinaeseyo?).",
+        "quiz": [
+          {"question": "Thank you in Korean?", "options": ["감사합니다", "제발"], "answer": "감사합니다"}
+        ]
+      }
+    ]
+  },
+  "grade9": {
+    "lessons": [
+      {
+        "title": "Food Vocabulary",
+        "content": "Rice: 밥 (bap), Water: 물 (mul), Apple: 사과 (sagwa), Cheese: 치즈 (chijeu).",
+        "quiz": [
+          {"question": "Apple in Korean?", "options": ["사과", "밥"], "answer": "사과"}
+        ]
+      }
+    ]
+  },
+  "grade10": {
+    "lessons": [
+      {
+        "title": "Simple Sentences",
+        "content": "I am happy: 나는 행복해요 (naneun haengbokhaeyo), I have a book: 나는 책이 있어요 (naneun chaegi isseoyo).",
+        "quiz": [
+          {"question": "I have a book?", "options": ["나는 책이 있어요", "나는 행복해요"], "answer": "나는 책이 있어요"}
+        ]
+      }
+    ]
+  },
+  "grade11": {
+    "lessons": [
+      {
+        "title": "Travel Phrases",
+        "content": "Where is…?: 어디에 있어요? (eodie isseoyo?), I need help: 도움이 필요해요 (doumi piryohaeyo).",
+        "quiz": [
+          {"question": "Where is in Korean?", "options": ["어디에 있어요?", "도움이 필요해요"], "answer": "어디에 있어요?"}
+        ]
+      }
+    ]
+  },
+  "grade12": {
+    "lessons": [
+      {
+        "title": "Advanced Expressions",
+        "content": "Better late than never: 늦더라도 안 하는 것보다 낫다 (neutdeorado an haneun geotboda natda), It's raining heavily: 비가 억수같이 내린다 (biga eoksugat-i naerinda).",
+        "quiz": [
+          {"question": "Better late than never?", "options": ["늦더라도 안 하는 것보다 낫다", "비가 억수같이 내린다"], "answer": "늦더라도 안 하는 것보다 낫다"}
+        ]
+      }
+    ]
+  }
+}
